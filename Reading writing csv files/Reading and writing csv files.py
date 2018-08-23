@@ -1,9 +1,7 @@
 """
-Project for Week 3 of "Python Data Analysis".
+
 Read and write CSV files using a dictionary of dictionaries.
 
-Be sure to read the project description page for further information
-about the expected behavior of the program.
 """
 
 import csv
