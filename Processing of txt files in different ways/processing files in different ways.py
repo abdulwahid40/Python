@@ -1,9 +1,6 @@
 """
-Project for Week 4 of "Python Data Representations".
 Find differences in file contents.
 
-Be sure to read the project description page for further information
-about the expected behavior of the program.
 """
 
 IDENTICAL = -1
